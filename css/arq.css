@@ -1,0 +1,39 @@
+*{padding: 0px;
+  margin: 0px;
+}
+
+.conteiner{
+    width: 350px;
+    height: 480px;
+    margin: auto;
+    border: 2px solid black;
+    margin-top: 5%;
+}
+
+.pelucio{
+    width: 120px;
+    height: 120px;
+}
+
+.dobby{
+    width: 120px;
+    height: 120px;
+}
+
+.divpelucio{
+    margin-left: 15%;
+}
+.divdobby{
+    margin-left: 15%;
+    margin-top: 4%;
+    }
+
+.harrypotter{
+    width: 120px;
+    height: 120px;
+}
+
+.divhp{
+    margin-left: 15%;
+    margin-top: 4%;
+    }
